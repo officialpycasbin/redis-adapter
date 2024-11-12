@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.3.0](https://github.com/officialpycasbin/redis-adapter/compare/v1.2.0...v1.3.0) (2024-11-12)
+
+
+### Features
+
+* update path ([905506e](https://github.com/officialpycasbin/redis-adapter/commit/905506ea0fab82483fee0ef644e3d9183470dfd5))
+
 # [1.2.0](https://github.com/officialpycasbin/redis-adapter/compare/v1.1.0...v1.2.0) (2024-03-29)
 
 
