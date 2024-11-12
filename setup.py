@@ -15,12 +15,12 @@ install_requires = [x.strip() for x in all_reqs if "git+" not in x]
 
 setup(
     name="casbin_redis_adapter",
-    author="BustDot",
-    author_email="Bust.dev@outlook.com",
+    author="Casbin",
+    author_email="admin@casbin.org",
     description="Redis Adapter for PyCasbin",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pycasbin/redis-adapter",
+    url="https://github.com/officialpycasbin/redis-adapter",
     keywords=[
         "casbin",
         "Redis",
