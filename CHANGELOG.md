@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.4.0](https://github.com/officialpycasbin/redis-adapter/compare/v1.3.0...v1.4.0) (2025-08-15)
+
+
+### Features
+
+* switch from casbin to pycasbin ([8fc02cc](https://github.com/officialpycasbin/redis-adapter/commit/8fc02cc6d6b11f97bc40697214d95240a9fcf273))
+
 # [1.3.0](https://github.com/officialpycasbin/redis-adapter/compare/v1.2.0...v1.3.0) (2024-11-12)
 
 
