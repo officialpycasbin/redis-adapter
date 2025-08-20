@@ -1,12 +1,12 @@
 Redis Adapter for PyCasbin
 ====
 
-[![GitHub Action](https://github.com/officialpycasbin/redis-adapter/workflows/build/badge.svg?branch=master)](https://github.com/officialpycasbin/redis-adapter/actions)
+[![build](https://github.com/officialpycasbin/redis-adapter/actions/workflows/build.yml/badge.svg)](https://github.com/officialpycasbin/redis-adapter/actions/workflows/build.yml)
 [![Coverage Status](https://coveralls.io/repos/github/officialpycasbin/redis-adapter/badge.svg)](https://coveralls.io/github/officialpycasbin/redis-adapter)
 [![Version](https://img.shields.io/pypi/v/casbin_redis_adapter.svg)](https://pypi.org/project/casbin_redis_adapter/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/casbin_redis_adapter.svg)](https://pypi.org/project/casbin_redis_adapter/)
 [![Pyversions](https://img.shields.io/pypi/pyversions/casbin_redis_adapter.svg)](https://pypi.org/project/casbin_redis_adapter/)
-[![Download](https://img.shields.io/pypi/dm/casbin_redis_adapter.svg)](https://pypi.org/project/casbin_redis_adapter/)
+[![Download](https://static.pepy.tech/badge/casbin_redis_adapter)](https://pypi.org/project/casbin_redis_adapter/)
 [![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
 
 Redis Adapter is the [Redis](https://redis.io/) adapter for [PyCasbin](https://github.com/casbin/pycasbin). With this library, Casbin can load policy from redis or save policy to it.
